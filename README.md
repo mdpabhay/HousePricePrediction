@@ -110,3 +110,14 @@ Machine learning models like **Linear Regression**, **Lasso**, and **Ridge** are
 
 
 
+
+
+## ** WEB-APPLICATION **
+
+![Project Screenshot](Images/Landing_Page.png)
+
+
+
+
+
+
